@@ -120,7 +120,7 @@ p {
   text-align: center;
 }
 
-.post-container:nth-child(even) {
+.post-container:nth-child(odd) {
   background-color: #f2f2f2
 }
 
