@@ -1,1 +1,1 @@
-# www.kohzai33.github.io
+# Visit me: https://joshuakoh23.github.io/My-First-Try-Blog/
